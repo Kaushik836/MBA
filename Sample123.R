@@ -6,7 +6,8 @@ sub<- function(a,b)
   } else
     {
       print("non numeric")
-  }
+    }
+  print("This is the function to print two numbers ")
 }
 
 matr<-matrix(1:9,nrow = 3)
